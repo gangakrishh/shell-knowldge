@@ -1,0 +1,2 @@
+# shell-knowldge
+shell script
